@@ -2,7 +2,7 @@ body {
   background: white;
   text-align: center;
   text-rendering: auto;
-  font-size: 1.3vw;
+  font-size: 2.2vh;
   line-height: 1.6em;
   height: 100vh;
   overflow: hidden;
@@ -20,8 +20,8 @@ body {
 }
 
 .image-cropper {
-  width: 8vw;
-  height: 8vw;
+  width: 15vh;
+  height: 15vh;
   position: relative;
   overflow: hidden;
   border-radius: 50%;
